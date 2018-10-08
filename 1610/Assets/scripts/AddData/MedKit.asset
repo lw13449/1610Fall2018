@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 71297dea7fc0b834496b9f683d1f7d3c, type: 3}
-  m_Name: AddMoney
+  m_Script: {fileID: 11500000, guid: 452251ed33c24d243a26b3b30432266a, type: 3}
+  m_Name: MedKit
   m_EditorClassIdentifier: 
-  ValueObj: {fileID: 11400000, guid: c807f6a3eb3348744a5fe3fbb778105e, type: 2}
+  Value: 5

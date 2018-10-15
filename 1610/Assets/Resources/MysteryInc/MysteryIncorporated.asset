@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae9b3da721c8cb47adbdde70f5007a0, type: 3}
+  m_Name: MysteryIncorporated
+  m_EditorClassIdentifier: 
+  ObjectList:
+  - {fileID: 11400000, guid: 2220585b6e2631445bbb7268f897289d, type: 2}
+  - {fileID: 11400000, guid: 8071ff4f2f863d74cb20799b5d18dce3, type: 2}
+  - {fileID: 11400000, guid: d55e5a4396df2b041b74cade4598d94b, type: 2}

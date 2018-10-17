@@ -9,5 +9,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aecc4489708c1eb43abf5d4993257540, type: 3}
-  m_Name: Bazooka
+  m_Name: Speed
   m_EditorClassIdentifier: 

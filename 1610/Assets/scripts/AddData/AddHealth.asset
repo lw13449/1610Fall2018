@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71297dea7fc0b834496b9f683d1f7d3c, type: 3}
   m_Name: AddHealth
   m_EditorClassIdentifier: 
-  ValueObj: {fileID: 11400000, guid: 9af152014529efc459f6b6a841dee5f3, type: 2}
+  ValueObj: {fileID: 0}
   MaxValue: {fileID: 0}
   MinValue: {fileID: 0}
   EventMax:

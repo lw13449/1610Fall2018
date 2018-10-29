@@ -8,9 +8,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ea19d97234106e4cac9c59d16416f4d, type: 3}
-  m_Name: Villians
+  m_Script: {fileID: 11500000, guid: 4cec8125432f0b74cba6f0e18d91bb70, type: 3}
+  m_Name: Jafar
   m_EditorClassIdentifier: 
-  ObjectList:
-  - 
-  - 

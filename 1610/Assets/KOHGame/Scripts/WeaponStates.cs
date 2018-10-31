@@ -9,4 +9,6 @@
 		Bazooka,
 		Machete
 	}
+
+	public States Weapons;
 }

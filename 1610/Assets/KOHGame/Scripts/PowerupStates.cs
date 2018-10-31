@@ -4,6 +4,10 @@
 	{
 		Health,
 		Invisibility,
-		Invincibility
+		Invincibility,
+		RapidFire,
+		SlowMo
 	}
+
+	public States Powerup;
 }

@@ -9,6 +9,8 @@
         <e p="KOHGame" t="Include">
           <e p="scripts" t="Include">
             <e p="PowerupStates.cs" t="Include" />
+            <e p="SwitchPowerup.cs" t="Include" />
+            <e p="SwitchWeapons.cs" t="Include" />
             <e p="WeaponStates.cs" t="Include" />
           </e>
         </e>

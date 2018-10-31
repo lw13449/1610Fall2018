@@ -10,5 +10,5 @@
 		Machete
 	}
 
-	public States Weapons;
+	public States State;
 }

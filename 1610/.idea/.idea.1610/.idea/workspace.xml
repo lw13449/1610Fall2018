@@ -15,12 +15,12 @@
         <entry file="file://$PROJECT_DIR$/Assets/scripts/AI/BasicAI.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <caret line="16" column="74" lean-forward="true" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
               <folding>
-                <marker date="1541454853851" expanded="true" signature="6:40" ph="..." />
-                <marker date="1541454853851" expanded="true" signature="78:274" ph="{...}" />
-                <marker date="1541454853851" expanded="true" signature="158:204" ph="{...}" />
-                <marker date="1541454853851" expanded="true" signature="222:272" ph="{...}" />
+                <marker date="1541455409349" expanded="true" signature="6:40" ph="..." />
+                <marker date="1541455409349" expanded="true" signature="78:299" ph="{...}" />
+                <marker date="1541455409349" expanded="true" signature="158:204" ph="{...}" />
+                <marker date="1541455409349" expanded="true" signature="222:297" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -85,7 +85,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="302" />
     <option name="y" value="302" />
     <option name="width" value="1440" />
@@ -160,12 +160,12 @@
       <workItem from="1540844950869" duration="3059000" />
       <workItem from="1541017300577" duration="2578000" />
       <workItem from="1541453454341" duration="264000" />
-      <workItem from="1541454551112" duration="803000" />
+      <workItem from="1541454551112" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27089000" />
+    <option name="totallyTimeSpent" value="27526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +177,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="302" width="1440" height="780" extended-state="0" />
+    <frame x="302" y="302" width="1440" height="780" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -470,12 +470,12 @@
     <entry file="file://$PROJECT_DIR$/Assets/scripts/AI/BasicAI.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <caret line="16" column="74" lean-forward="true" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
           <folding>
-            <marker date="1541454853851" expanded="true" signature="6:40" ph="..." />
-            <marker date="1541454853851" expanded="true" signature="78:274" ph="{...}" />
-            <marker date="1541454853851" expanded="true" signature="158:204" ph="{...}" />
-            <marker date="1541454853851" expanded="true" signature="222:272" ph="{...}" />
+            <marker date="1541455409349" expanded="true" signature="6:40" ph="..." />
+            <marker date="1541455409349" expanded="true" signature="78:299" ph="{...}" />
+            <marker date="1541455409349" expanded="true" signature="158:204" ph="{...}" />
+            <marker date="1541455409349" expanded="true" signature="222:297" ph="{...}" />
           </folding>
         </state>
       </provider>

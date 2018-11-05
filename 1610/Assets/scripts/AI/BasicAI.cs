@@ -14,6 +14,6 @@ public class BasicAI : MonoBehaviour
 	
 	void Update ()
 	{
-		agent.destination = Destination.position;
+		if (Destination != null) agent.destination = Destination.position;
 	}
 }

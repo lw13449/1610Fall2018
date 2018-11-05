@@ -25,6 +25,9 @@
             <e p="FloatData.cs" t="Include" />
             <e p="PowerUp.cs" t="Include" />
           </e>
+          <e p="AI" t="Include">
+            <e p="BasicAI.cs" t="Include" />
+          </e>
           <e p="BeginningScripts" t="Include">
             <e p="Animal.cs" t="Include" />
             <e p="Dog.cs" t="Include" />

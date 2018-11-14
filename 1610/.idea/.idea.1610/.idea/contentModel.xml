@@ -34,6 +34,11 @@
           </e>
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
+          <e p="ForEachLoo[s" t="Include">
+            <e p="GameObjectLoop.cs" t="Include" />
+            <e p="LetterInstanceLoop.cs" t="Include" />
+            <e p="LetterLoop.cs" t="Include" />
+          </e>
           <e p="GameStates.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />

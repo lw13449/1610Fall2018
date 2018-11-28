@@ -21,9 +21,12 @@ public class CharacterMover : MonoBehaviour
 	
 	void Update ()
 	{
+
+		position.x = MoveSpeed * Input.GetAxis("Horizontal");
+		
 		if (Controller.isGrounded)
 		{
-			position.Set(MoveSpeed * Input.GetAxis("Horizontal"), 0, 0);
+			//position.Set(MoveSpeed * Input.GetAxis("Horizontal"), 0, 0);
 			
 			
 			position = transform.TransformDirection(position);

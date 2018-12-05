@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class IfStatement : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
+    
+    public NameID Lock, Key;
 	
-	// Update is called once per frame
+	
 	void Update () {
-		
+		if (Lock == Key)
+		{
+			print("Open Door");
+		}
 	}
 }

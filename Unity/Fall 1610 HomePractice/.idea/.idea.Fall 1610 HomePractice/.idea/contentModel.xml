@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wrigh\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wrigh\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Fall 1610 HomePractice.1899876763.00" t="ExcludeRecursive" />
+    <e p="C:\Users\wrigh\Desktop\FALL 2018\DGM 1600\GitKrakenHub\1610Fall2018\Unity\Fall 1610 HomePractice" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FinalGame" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CharacterMover.cs" t="Include" />
+            <e p="DestroyObject.cs" t="Include" />
+            <e p="Instancing.cs" t="Include" />
+            <e p="MouseEventBehavior.cs" t="Include" />
+            <e p="TriggerEventBehavior.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FloatData.cs" t="Include" />
+          <e p="NameID.cs" t="Include" />
+          <e p="ObjectCollection.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Fall 1610 HomePractice.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

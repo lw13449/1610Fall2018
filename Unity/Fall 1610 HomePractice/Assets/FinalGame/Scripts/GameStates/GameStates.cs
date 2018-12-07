@@ -3,7 +3,6 @@
 	public enum States
 	{
 		Starting,
-		Loading,
 		Playing,
 		Dying,
 		Winning

@@ -8,7 +8,7 @@ public class SwitchStatements : MonoBehaviour
 
 	public GameStates.States GameState;
 
-	public UnityEvent Starting, Loading, Playing, Ending, Dying;
+	public UnityEvent Starting, Playing, Ending, Dying;
 	
 	// Update is called once per frame
 	void Update () {
@@ -16,9 +16,6 @@ public class SwitchStatements : MonoBehaviour
 		{
 				case GameStates.States.Starting:
 					print("The game is starting");
-					break;
-				case GameStates.States.Loading:
-					print("The game is loading");
 					break;
 				case GameStates.States.Playing:
 					print("You are playing the Game");

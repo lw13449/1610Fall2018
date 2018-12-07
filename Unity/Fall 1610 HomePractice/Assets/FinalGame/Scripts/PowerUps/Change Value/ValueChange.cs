@@ -5,14 +5,14 @@ public class ValueChange : ScriptableObject
 {
 	public FloatData Data;
 
-	public void AddValue(FloatData data)
+	public void AddValue(FloatData obj)
 	{
-		data.Value += Data.Value;
+		Data.Value += obj.Value;
 	}
 
-	public void SubtractValue(FloatData data)
+	public void SubtractValue(FloatData obj)
 	{
-		data.Value -= Data.Value;
+		Data.Value -= obj.Value;
 	}
 	
 }

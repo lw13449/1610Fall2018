@@ -14,7 +14,7 @@ public class ForEachLoop : MonoBehaviour
 		foreach (var item in Inventory)
 		{
 			position.x += 2.5f;
-		Instantiate(item, position, Quaternion.identity)
+			Instantiate(item, position, Quaternion.identity);
 		}
 	}
 	

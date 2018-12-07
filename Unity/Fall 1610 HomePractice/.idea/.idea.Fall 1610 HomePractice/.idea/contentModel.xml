@@ -26,6 +26,7 @@
             <e p="PowerUps" t="Include">
               <e p="AddValue.cs" t="Include" />
               <e p="Change Value" t="Include">
+                <e p="UpdateImageValue.cs" t="Include" />
                 <e p="ValueChange.cs" t="Include" />
               </e>
               <e p="Player Health" t="Include">

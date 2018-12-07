@@ -12,11 +12,12 @@
             <e p="DestroyObject.cs" t="Include" />
             <e p="GameStates" t="Include">
               <e p="GameStates.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+              <e p="SwitchStatements.cs" t="Include" />
             </e>
             <e p="IfStatement.cs" t="Include" />
             <e p="Instancing.cs" t="Include" />
             <e p="MouseEventBehavior.cs" t="Include" />
-            <e p="OpenDoor.cs" t="Include" />
             <e p="PowerUps" t="Include">
               <e p="AddValue.cs" t="Include" />
               <e p="Player Score" t="Include">

@@ -4,13 +4,18 @@ using UnityEngine;
 
 public class IfStatement : MonoBehaviour {
     
-    public NameID Lock, Key;
+    public NameID Door, Key;
 	
 	
 	void Update () {
-		if (Lock == Key)
+		if (Door == Key)
 		{
 			print("Open Door");
+			print("You have Won.");
+		}
+		else
+		{
+			print("Find Key to Open Door.");
 		}
 	}
 }

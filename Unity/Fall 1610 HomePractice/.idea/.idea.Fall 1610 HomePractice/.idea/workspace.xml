@@ -12,7 +12,7 @@
     <session id="790971996">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.54" value="1" />
@@ -44,7 +44,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/GameStates/StateMachine.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -54,53 +54,6 @@
                 <marker date="1544156735178" expanded="true" signature="146:411" ph="{...}" />
                 <marker date="1544156735178" expanded="true" signature="303:409" ph="{...}" />
                 <marker date="1544156735178" expanded="true" signature="325:406" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ForEachLoop.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <marker date="1544157219108" expanded="true" signature="6:78" ph="..." />
-                <marker date="1544157219108" expanded="true" signature="120:359" ph="{...}" />
-                <marker date="1544157219108" expanded="true" signature="233:353" ph="{...}" />
-                <marker date="1544157219108" expanded="true" signature="268:350" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/EventRepeat.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-              <folding>
-                <marker date="1544157582335" expanded="true" signature="6:86" ph="..." />
-                <marker date="1544157582335" expanded="true" signature="128:414" ph="{...}" />
-                <marker date="1544157582335" expanded="true" signature="234:412" ph="{...}" />
-                <marker date="1544157582335" expanded="true" signature="252:409" ph="{...}" />
-                <marker date="1544157582335" expanded="true" signature="358:376" ph="{...}" />
-                <marker date="1544157582335" expanded="true" signature="384:405" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ItemLooping.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-              <folding>
-                <marker date="1544157964274" expanded="true" signature="6:78" ph="..." />
-                <marker date="1544157964274" expanded="true" signature="120:408" ph="{...}" />
-                <marker date="1544157964274" expanded="true" signature="261:404" ph="{...}" />
-                <marker date="1544157964274" expanded="true" signature="306:401" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -117,11 +70,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/GameStates/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ItemLooping.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/GameStates/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/PowerUps/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/IfStatement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -222,12 +172,12 @@
       <workItem from="1544039135861" duration="1073000" />
       <workItem from="1544040801676" duration="1006000" />
       <workItem from="1544045869007" duration="3418000" />
-      <workItem from="1544139053460" duration="4894000" />
+      <workItem from="1544139053460" duration="5454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10560000" />
+    <option name="totallyTimeSpent" value="11120000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,7 +190,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="659" y="8" width="697" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28257456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -436,6 +385,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ForEachLoop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/EventRepeat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ItemLooping.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/GameStates/StateMachine.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -445,47 +415,6 @@
             <marker date="1544156735178" expanded="true" signature="146:411" ph="{...}" />
             <marker date="1544156735178" expanded="true" signature="303:409" ph="{...}" />
             <marker date="1544156735178" expanded="true" signature="325:406" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ForEachLoop.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <marker date="1544157219108" expanded="true" signature="6:78" ph="..." />
-            <marker date="1544157219108" expanded="true" signature="120:359" ph="{...}" />
-            <marker date="1544157219108" expanded="true" signature="233:353" ph="{...}" />
-            <marker date="1544157219108" expanded="true" signature="268:350" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/EventRepeat.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding>
-            <marker date="1544157582335" expanded="true" signature="6:86" ph="..." />
-            <marker date="1544157582335" expanded="true" signature="128:414" ph="{...}" />
-            <marker date="1544157582335" expanded="true" signature="234:412" ph="{...}" />
-            <marker date="1544157582335" expanded="true" signature="252:409" ph="{...}" />
-            <marker date="1544157582335" expanded="true" signature="358:376" ph="{...}" />
-            <marker date="1544157582335" expanded="true" signature="384:405" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FinalGame/Scripts/ItemLooping.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <marker date="1544157964274" expanded="true" signature="6:78" ph="..." />
-            <marker date="1544157964274" expanded="true" signature="120:408" ph="{...}" />
-            <marker date="1544157964274" expanded="true" signature="261:404" ph="{...}" />
-            <marker date="1544157964274" expanded="true" signature="306:401" ph="{...}" />
           </folding>
         </state>
       </provider>

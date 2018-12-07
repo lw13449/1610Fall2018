@@ -8,21 +8,29 @@
       <e p="Assets" t="Include">
         <e p="FinalGame" t="Include">
           <e p="Scripts" t="Include">
-            <e p="CharacterMover.cs" t="Include" />
             <e p="DestroyObject.cs" t="Include" />
-            <e p="EventRepeat.cs" t="Include" />
-            <e p="ForEachLoop.cs" t="Include" />
             <e p="GameStates" t="Include">
               <e p="GameStates.cs" t="Include" />
-              <e p="StateMachine.cs" t="Include" />
               <e p="SwitchStatements.cs" t="Include" />
             </e>
             <e p="IfStatement.cs" t="Include" />
             <e p="Instancing.cs" t="Include" />
-            <e p="ItemLooping.cs" t="Include" />
+            <e p="Loop" t="Include">
+              <e p="ForEachLoop.cs" t="Include" />
+              <e p="ItemLooping.cs" t="Include" />
+            </e>
             <e p="MouseEventBehavior.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="CharacterMover.cs" t="Include" />
+            </e>
             <e p="PowerUps" t="Include">
               <e p="AddValue.cs" t="Include" />
+              <e p="Change Value" t="Include">
+                <e p="ValueChange.cs" t="Include" />
+              </e>
+              <e p="Player Health" t="Include">
+                <e p="AddHealth.cs" t="Include" />
+              </e>
               <e p="Player Score" t="Include">
                 <e p="PlayerScore.cs" t="Include" />
               </e>

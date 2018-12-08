@@ -47,6 +47,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollection.cs" t="Include" />
+          <e p="WhileLoops.cs" t="Include" />
         </e>
       </e>
       <e p="Fall 1610 HomePractice.sln" t="IncludeFlat" />

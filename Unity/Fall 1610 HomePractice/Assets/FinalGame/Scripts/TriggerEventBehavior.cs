@@ -5,7 +5,6 @@ public class TriggerEventBehavior : MonoBehaviour {
 
     public UnityEvent Enable;
     public UnityEvent Trigger;
-    
 
 	void OnEnable () 
 	{
@@ -15,5 +14,7 @@ public class TriggerEventBehavior : MonoBehaviour {
 	void OnTriggerEnter () 
 	{
 		Trigger.Invoke();
+		
 	}
+
 }

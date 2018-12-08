@@ -12,6 +12,10 @@
               <e p="BasicAI.cs" t="Include" />
             </e>
             <e p="DestroyObject.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="GameOver" t="Include">
+              <e p="CharacterDeath.cs" t="Include" />
+            </e>
             <e p="GameStates" t="Include">
               <e p="GameStates.cs" t="Include" />
               <e p="SwitchStatements.cs" t="Include" />
@@ -23,6 +27,8 @@
               <e p="ItemLooping.cs" t="Include" />
             </e>
             <e p="MouseEventBehavior.cs" t="Include" />
+            <e p="NameID.cs" t="Include" />
+            <e p="ObjectCollection.cs" t="Include" />
             <e p="Player" t="Include">
               <e p="CharacterMover.cs" t="Include" />
             </e>
@@ -41,13 +47,8 @@
               <e p="PowerUp.cs" t="Include" />
             </e>
             <e p="TriggerEventBehavior.cs" t="Include" />
+            <e p="WhileLoops.cs" t="Include" />
           </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="FloatData.cs" t="Include" />
-          <e p="NameID.cs" t="Include" />
-          <e p="ObjectCollection.cs" t="Include" />
-          <e p="WhileLoops.cs" t="Include" />
         </e>
       </e>
       <e p="Fall 1610 HomePractice.sln" t="IncludeFlat" />

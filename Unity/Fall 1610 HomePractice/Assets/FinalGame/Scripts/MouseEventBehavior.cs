@@ -15,6 +15,6 @@ public class MouseEventBehavior : MonoBehaviour {
 	
 	private void OnMouseUp () 
 	{
-		MouseUp.Invoke();
+		Destroy(gameObject);
 	}
 }

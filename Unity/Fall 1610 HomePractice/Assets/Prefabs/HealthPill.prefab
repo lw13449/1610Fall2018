@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 33214185038878126}
   - component: {fileID: 23427044480901780}
   - component: {fileID: 136342849212106172}
+  - component: {fileID: 114884880137594822}
   m_Layer: 0
   m_Name: HealthPill
   m_TagString: Untagged
@@ -114,6 +115,39 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1095204903417738}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &114884880137594822
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1095204903417738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6902b41611c79744abce614eeddaafe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MouseDown:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 0f91f9eef00c5544896c5ce59ca7e385, type: 2}
+        m_MethodName: AddValue
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 45556b2aa9f44584d86627010b935be1,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  MouseUp:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!136 &136342849212106172
 CapsuleCollider:
   m_ObjectHideFlags: 1

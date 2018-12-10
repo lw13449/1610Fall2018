@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class IfStatement : MonoBehaviour {
     
-    public NameID Door, Key;
+    public GameObject Door, Key;
 	
 	
 	void Update () {

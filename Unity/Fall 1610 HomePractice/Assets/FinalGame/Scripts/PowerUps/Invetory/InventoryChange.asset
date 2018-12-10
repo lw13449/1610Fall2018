@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a54d20a137722641977462aca038a12, type: 3}
-  m_Name: Health
+  m_Script: {fileID: 11500000, guid: 912a187ffa3ca494f96feb9e774d9567, type: 3}
+  m_Name: InventoryChange
   m_EditorClassIdentifier: 
-  Value: 1
+  Data: {fileID: 11400000, guid: 27892f48d825e1247a29baad6ed1a49d, type: 2}

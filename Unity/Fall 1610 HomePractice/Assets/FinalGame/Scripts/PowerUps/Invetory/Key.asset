@@ -9,6 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a54d20a137722641977462aca038a12, type: 3}
-  m_Name: Health
+  m_Name: Key
   m_EditorClassIdentifier: 
-  Value: 1
+  Value: 50

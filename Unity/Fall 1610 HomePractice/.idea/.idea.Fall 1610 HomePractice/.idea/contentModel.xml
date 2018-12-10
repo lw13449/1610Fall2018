@@ -15,6 +15,7 @@
             <e p="FloatData.cs" t="Include" />
             <e p="GameOver" t="Include">
               <e p="CharacterDeath.cs" t="Include" />
+              <e p="OpenDoor.cs" t="Include" />
             </e>
             <e p="GameStates" t="Include">
               <e p="GameStates.cs" t="Include" />

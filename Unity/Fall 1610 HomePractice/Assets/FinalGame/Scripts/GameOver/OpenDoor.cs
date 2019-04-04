@@ -11,7 +11,8 @@ public class OpenDoor : MonoBehaviour
 	{
 		if (Inventory.Value > FullInventory.Value)
 		{
-			print("Open Door. You have Won the Game.");
+			print("Open Door.");
+			print("You have won the game.");
 		}
 		else
 		{
